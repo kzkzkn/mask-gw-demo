@@ -1,0 +1,7 @@
+{
+  "model":"gpt-4o-mini",
+  "messages":[
+    {"role":"system","content":"あなたは有能な秘書です"},
+    {"role":"user","content":"山田太郎（TEL 03-1234-5678）の契約内容を要約して"}
+  ]
+}
